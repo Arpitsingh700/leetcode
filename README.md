@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arpitsingh700/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Arpitsingh700/leetcode/tree/master/0014-longest-common-prefix) |
+| [1929-concatenation-of-array](https://github.com/Arpitsingh700/leetcode/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arpitsingh700/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Arpitsingh700/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
