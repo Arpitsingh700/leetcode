@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Arpitsingh700/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arpitsingh700/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Arpitsingh700/leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Arpitsingh700/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Arpitsingh700/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Arpitsingh700/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Arpitsingh700/leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Arpitsingh700/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
 | ------- |
